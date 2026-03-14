@@ -43,7 +43,7 @@ Linux
 
 sudo apt update
 sudo apt install python3 python3-pip -y
-python3 monthly_budget.py
+python3 monthly.py
 
 2.Fedora / CentOS / RHEL
 
@@ -52,22 +52,22 @@ python3 monthly_budget.py
 
 3.Arch / Manjaro
 sudo pacman -Syu python
-python monthly_budget.py
+python monthly.py
 
 4.macOS (Homebrew)
 brew install python
-python3 monthly_budget.py
+python3 monthly.py
 
 5.Android (Termux)
 pkg update && pkg upgrade
 pkg install python
-python3 monthly_budget.py
+python3 monthly.py
 
 6.Windows
 
 Install Python from the official website and run:
 
-python monthly_budget.py
+python monthly.py
 
 ⚠️ Note: Ensure Python is added to your system PATH.
 
